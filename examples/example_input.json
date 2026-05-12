@@ -1,0 +1,7 @@
+{
+  "query": "graph neural networks, social network analysis",
+  "date_range": "last_7_days",
+  "max_papers": 20,
+  "top_k": 5,
+  "openalex_mailto": "you@your-institution.edu"
+}
